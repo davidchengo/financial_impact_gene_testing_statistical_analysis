@@ -8,9 +8,9 @@ Analyze the financial impact of various gene testing method using data visualiza
 4. unit of analysis: patient level (A-C) and account level (D, E)
 
 ## Statistic Methods:
-1. boxplots to show variability between and within groups
-2. test pairwise difference between two groups (Pairwise Wilcoxon Rank Sum Test, or P-W Test)
-3. test overall difference among multiple groups (Kruskal-Wallis Rank Sum Test, or K-W Test )
+1. boxplots to show variability between and within case groups
+2. test pairwise difference between two groups (Pairwise Wilcoxon Rank Sum Test)
+3. test overall difference among multiple groups (Kruskal-Wallis Rank Sum Test)
 
 ## Example Results<br/>
 ### Case Distribution<br/>
