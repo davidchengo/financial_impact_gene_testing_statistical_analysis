@@ -1,5 +1,5 @@
-# Analyze the Financial Impact of Different Gene Testing Methods (Whole Exome Sequencing vs Panel Gene Testing)<br/>
-Analyze the financial impact of various gene testing method using data visualization and statistical tests to compare means
+# Financial Impact of Gene Testing<br/>
+Analyze the financial impact of various gene testing methods (Whole Exome Sequencing vs Panel Gene Testing) using data visualization and statistical testings.
 
 ## Experiment Setup: <br/>
 1. contrast groups: Panel Testing vs EXOME SEQUENCE ANALYSIS
