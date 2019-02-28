@@ -18,6 +18,3 @@ Analyze the financial impact of various gene testing methods (Whole Exome Sequen
 ### Percentage of Payment by Financial Class<br/>
 ![](img/Picture6.png)
 Percentage of payment is overall significantly different among different financial classes based on Kruskal-Wallis Test.
-### Claims Duration<br/>
-![](img/Picture9.png)
-In relation to the relatively high denial rate of WES claims, shorter WES claims duration may suggest WES claims could simply be getting denied due to non-coverage. 
